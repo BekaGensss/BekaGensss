@@ -1,4 +1,4 @@
-[<div align="center">
+<div align="center">
   <img src="https://github.com/Adam-Zaczek/adam-zaczek/raw/master/gif/intro-2.gif" width="60" alt="Halo animation"/>
   <h1>Hello, World! 👋 Saya Bara Kusuma</h1>
   <p>
@@ -57,7 +57,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BekaGensss&layout=compact&theme=gotham" alt="Bahasa Teratas"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BekaGensss&repo=nama_repositori_keren_anda&theme=dark" alt="Proyek Terbaik"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BekaGensss&repo=portofolio-2&theme=dark" alt="Proyek Terbaik"/>
 </div>
 
 ---
@@ -79,7 +79,7 @@
   <a href="mailto:emailanda@example.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://bekagensss.github.io/my-portfolio" target="_blank" rel="noreferrer"> 
+  <a href="https://bekagensss.github.io/portofolio-2/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Portfolio-2D333B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portofolio"/>
   </a>
 </div>
@@ -87,4 +87,3 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=BekaGensss&color=blue" alt="Jumlah Pengunjung Profil"/>
 </div>
-](https://bekagensss.github.io/portofolio-2/)
