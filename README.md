@@ -1,45 +1,68 @@
-<h1 align="center">Halo, saya Bara Kusuma! 👋</h1>
-<h3 align="center">Seorang Web Developer yang bersemangat dalam membangun jembatan digital.</h3>
-
----
-
-### Mengenai Saya
-
-Saat ini, saya sedang dalam perjalanan sebagai **Web Developer**. Saya menikmati proses mengubah ide menjadi aplikasi yang berfungsi dan mudah digunakan. Di sini, Anda bisa menemukan hasil belajar dan eksperimen saya di dunia koding.
-
----
-
-### Tumpukan Teknologi Saya ⚙️
-
-Berikut adalah beberapa teknologi yang sering saya gunakan:
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,git" alt="Teknologi yang saya gunakan" />
-</p>
-
----
-
-### Statistik GitHub
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BekaGensss&show_icons=true&theme=vue&hide_border=true&include_all_commits=true&count_private=true" alt="Statistik GitHub"/>
+  <img src="https://media.giphy.com/media/qgM9s4g95e7xN61yH8/giphy.gif" width="100" alt="Animated developer"/>
+  <h1>Selamat datang di Ruang Kode Saya! 🚀</h1>
 </div>
 
 ---
 
-### Mari Berjejaring! 🤝
+### Tentang Saya: Misi Seorang Pengembang Web
 
-Saya terbuka untuk berkolaborasi dan berbagi pengetahuan. Jangan ragu untuk terhubung dengan saya!
+Halo! Saya **Bara Kusuma**, seorang **Web Developer** yang sedang mengejar mimpi untuk membangun aplikasi web yang bermanfaat bagi banyak orang. Sebagai seorang pemula, saya percaya bahwa setiap baris kode adalah kesempatan untuk belajar dan tumbuh.
 
-<p align="center">
+Filosofi saya sederhana: **buat, coba, dan terus belajar**.
+
+---
+
+### Senjata Rahasia Saya 🛠️
+
+Berikut adalah tumpukan teknologi yang saya gunakan untuk mengubah ide menjadi kenyataan. Saya selalu bersemangat untuk mencoba hal baru!
+
+<div align="center">
+  <h4>Frontend</h4>
+  <p>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwindcss" alt="Frontend tools"/>
+  </p>
+
+  <h4>Backend</h4>
+  <p>
+    <img src="https://skillicons.dev/icons?i=nodejs,php,phpmyadmin,laravel,mysql" alt="Backend tools"/>
+  </p>
+</div>
+
+---
+
+### Statistik Saya di GitHub
+
+Jejak perjalanan koding saya bisa dilihat dari sini:
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BekaGensss&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BekaGensss&layout=compact&theme=tokyonight" alt="Bahasa yang sering digunakan"/>
+</div>
+
+---
+
+### Rencana Selanjutnya
+
+Saat ini, saya sedang fokus mempelajari:
+- **Docker & Kubernetes** untuk mengelola aplikasi.
+- **Arsitektur Microservices** untuk membangun sistem yang lebih tangguh.
+
+---
+
+### Ayo Terhubung!
+
+Punya ide untuk berkolaborasi? Atau sekadar ingin bertukar cerita tentang koding? Jangan sungkan untuk menghubungi saya!
+
+<div align="center">
   <a href="https://www.linkedin.com/in/linkedin-anda" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:email-anda@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=BekaGensss&color=blue" alt="Jumlah Pengunjung Profil"/>
-</p>
+</div>
