@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Adam-Zaczek/adam-zaczek/raw/master/gif/intro-2.gif" width="60" alt="Halo animation"/>
+  <img src="https://github.com/Adam-Zaczek/adam-zaczek/raw/master/gif/intro-2.gif" width="60" alt="Animated greeting"/>
   <h1>Hello, World! 👋 Saya Bara Kusuma</h1>
   <p>
     Seorang <strong>Full-Stack Developer</strong> yang suka membangun produk digital dari ide menjadi kenyataan.
@@ -9,40 +9,16 @@
 
 ---
 
-### 🚀 Stack Teknologi Pilihan Saya
+### 🚀 Keahlian Saya
 
-<div align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,php,laravel,mysql,git,github" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white" alt="Vite Badge"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS Badge"/>
+  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/>
+</p>
 
 ---
 
@@ -58,6 +34,19 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BekaGensss&layout=compact&theme=gotham" alt="Bahasa Teratas"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=BekaGensss&repo=portofolio-2&theme=dark" alt="Proyek Terbaik"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BekaGensss&theme=dark_doctor" alt="GitHub Trophies"/>
+</div>
+
+---
+
+### 📈 Kegiatan Coding Saya
+
+<div align="center">
+  <img src="https://wakatime.com/badge/user/103a9f07-8824-4f0b-ac68-e4b2e88a385f/project/6b571168-98e6-4277-a50d-b4b66d483863.svg" alt="Wakatime Badge"/>
+  <img src="https://wakatime.com/badge/user/103a9f07-8824-4f0b-ac68-e4b2e88a385f/projects.svg" alt="Wakatime Projects"/>
 </div>
 
 ---
