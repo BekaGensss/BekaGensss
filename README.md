@@ -1,91 +1,84 @@
 <div align="center">
-  <img src="https://github.com/Adam-Zaczek/adam-zaczek/raw/master/gif/intro-2.gif" width="60" alt="Halo animation"/>
-  <h1>Halo, Dunia! 👋 Saya Bara Kusuma</h1>
-  <p>
-    Seorang Full-Stack Developer yang suka mengubah ide menjadi produk digital yang berfungsi. Saya percaya bahwa setiap baris kode adalah kesempatan untuk memecahkan masalah dengan cara yang elegan dan efisien.
-  </p>
+<!-- GIF/Image Header -->
+<img src="https://www.google.com/search?q=https://media.giphy.com/media/qgM9s4g95e7xN61yH8/giphy.gif" width="100" alt="Animated developer"/>
+<br/>
+<h1>Selamat datang di ruang kode saya! 🚀</h1>
+<p>
+Hai! Saya Bara Kusuma, seorang Full-Stack Developer yang bersemangat dalam membangun jembatan digital. Saya mengubah ide-ide abstrak menjadi aplikasi web yang nyata, fungsional, dan dapat dinikmati semua orang. Di sini, Anda akan menemukan jejak petualangan saya dalam dunia coding.
+</p>
 </div>
 
----
+💡 Filosofi Saya sebagai Pengembang
+Saya percaya bahwa kode yang baik adalah perpaduan antara seni dan logika. Saya suka tantangan, mulai dari merancang arsitektur database yang solid hingga menyempurnakan pengalaman pengguna di sisi front-end. Setiap proyek yang saya kerjakan adalah kesempatan untuk belajar, berinovasi, dan berkontribusi.
 
-### 💻 Tentang Saya
+Jika Anda baru memulai, jangan khawatir! Saya sangat mendorong untuk saling berbagi pengetahuan. Jelajahi repositori saya dan jika ada yang membuat Anda penasaran, jangan ragu untuk bertanya.
 
-Sebagai pengembang web, saya selalu penasaran dan bersemangat untuk belajar hal baru. Saya suka membangun aplikasi yang tidak hanya terlihat bagus, tetapi juga berfungsi dengan lancar di balik layar. GitHub adalah tempat di mana saya mencatat perjalanan saya, dari proyek kecil yang paling awal hingga proyek yang lebih kompleks.
+🛠️ Kumpulan Alat & Teknologi
+Berikut adalah beberapa teknologi yang menjadi andalan saya dalam menyelesaikan proyek. Saya selalu mencari alat baru untuk ditambahkan ke gudang senjata saya!
 
-Jika Anda seorang pemula, jangan ragu untuk melihat-lihat proyek saya. Kita semua mulai dari nol, dan saya harap apa yang saya bagikan bisa memberikan inspirasi atau bahkan membantu Anda menemukan jawaban dari masalah yang sedang Anda hadapi.
+<br/>
+<div align="center">
+<!-- Frontend -->
+<a href="https://reactjs.org/" target="_blank">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" height="45"/>
+</a>
+<a href="https://tailwindcss.com/" target="_blank">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="45" height="45"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+</a>
+<a href="https://www.w3.org/html/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/>
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/>
+</a>
 
----
+<!-- Backend -->
 
-### 🚀 Stack Teknologi Pilihan Saya
+<a href="https://nodejs.org" target="_blank">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/>
+</a>
+<a href="https://expressjs.com" target="_blank">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="45" height="45"/>
+</a>
+<a href="https://www.php.net/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="45" height="45"/>
+</a>
+<a href="https://laravel.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="45" height="45"/>
+</a>
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
+</a>
+</div>
 
-Berikut adalah alat-alat yang sering saya gunakan dalam proyek-proyek saya. Saya selalu terbuka untuk mencoba teknologi baru!
+📊 Statistik GitHub
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DBekaGensss%26show_icons%3Dtrue%26theme%3Dbuefy%26include_all_commits%3Dtrue%26count_private%3Dtrue%26line_height%3D21" alt="Statistik GitHub"/>
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DBekaGensss%26theme%3Dtokyonight" alt="GitHub Streak"/>
+</div>
+
+🌱 Rencana & Proyek Berikutnya
+Saat ini, saya sedang mendalami Docker & Kubernetes untuk meningkatkan skala dan manajemen aplikasi. Saya juga berencana untuk mengeksplorasi arsitektur microservices untuk membangun sistem yang lebih tangguh dan modular.
+
+💬 Mari Berkolaborasi!
+Saya selalu terbuka untuk berdiskusi, berkolaborasi, atau sekadar berbagi cerita tentang coding. Jangan ragu untuk menghubungi saya melalui platform di bawah ini.
 
 <div align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/linkedin-anda" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
+</a>
+<a href="mailto:email-anda@example.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://url-portfolio-anda" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portofolio-2D333B%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="Portofolio"/>
+</a>
 </div>
 
----
-
-### 🔥 Statistik GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BekaGensss&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="Statistik GitHub Saya"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BekaGensss&theme=dark&hide_border=true" alt="Statistik Streak GitHub"/>
-</div>
-
----
-
-### 🌱 Saat ini Saya Sedang Belajar
-
-Saya saat ini sedang fokus mendalami Docker dan Kubernetes untuk membawa aplikasi ke level yang lebih tinggi, membuatnya lebih mudah untuk di-deploy dan diatur.
-
----
-
-### 🤝 Mari Terhubung dan Berkolaborasi!
-
-Saya senang bisa terhubung dengan sesama pengembang, baik Anda seorang profesional berpengalaman atau baru memulai. Jika Anda memiliki pertanyaan, ide proyek, atau hanya ingin menyapa, jangan ragu untuk menghubungi saya.
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/nama-linkedin-anda" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:emailanda@example.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://bekagensss.github.io/my-portfolio" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Portofolio-2D333B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portofolio"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=BekaGensss&color=blue" alt="Jumlah Pengunjung Profil"/>
-</div>
+<br>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=BekaGensss&color=blue" alt="Jumlah Pengunjung Profil"/>
+</p>
