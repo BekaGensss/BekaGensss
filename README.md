@@ -49,15 +49,15 @@
 ### 🔥 Statistik GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BekaGenzss&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="Statistik GitHub Saya"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BekaGenzss&theme=dark&hide_border=true" alt="Statistik Streak GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BekaGensss&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="Statistik GitHub Saya"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BekaGensss&theme=dark&hide_border=true" alt="Statistik Streak GitHub"/>
 </div>
 
 ### 🏆 Top Languages & Top Projects
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BekaGenzss&layout=compact&theme=gotham" alt="Bahasa Teratas"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BekaGenzss&repo=nama_repositori_keren_anda&theme=dark" alt="Proyek Terbaik"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BekaGensss&layout=compact&theme=gotham" alt="Bahasa Teratas"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BekaGensss&repo=nama_repositori_keren_anda&theme=dark" alt="Proyek Terbaik"/>
 </div>
 
 ---
@@ -85,5 +85,5 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=BekaGenzss&color=blue" alt="Jumlah Pengunjung Profil"/>
+  <img src="https://komarev.com/ghpvc/?username=BekaGensss&color=blue" alt="Jumlah Pengunjung Profil"/>
 </div>
