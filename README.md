@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
   <img src="https://github.com/Adam-Zaczek/adam-zaczek/raw/master/gif/intro-2.gif" width="60" alt="Halo animation"/>
   <h1>Hello, World! 👋 Saya Bara Kusuma</h1>
   <p>
@@ -87,3 +87,4 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=BekaGensss&color=blue" alt="Jumlah Pengunjung Profil"/>
 </div>
+](https://bekagensss.github.io/portofolio-2/)
