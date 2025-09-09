@@ -45,8 +45,8 @@ Jejak perjalanan koding saya bisa dilihat dari sini:
 ### Rencana Selanjutnya
 
 Saat ini, saya sedang merencanakan dan memulai proyek ambisius:
-- **Membangun website E-commerce** dari nol, dengan fokus pada pengalaman pengguna yang intuitif dan fungsionalitas backend yang solid.
-- **Mengembangkan aplikasi mobile e-commerce** untuk menjangkau pengguna yang lebih luas.
+- Membuat WEB/APP Kasir
+- Sedang Dalam Pengembangan
 
 ---
 
