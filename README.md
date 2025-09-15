@@ -40,6 +40,4 @@ Berikut adalah beberapa teknologi yang sering saya gunakan untuk mewujudkan ide-
 Tertarik untuk berkolaborasi atau hanya ingin bertukar pikiran? Jangan ragu untuk menghubungi saya!
 
 * **LinkedIn:** [https://id.linkedin.com/in/bara-kusuma-707067294]
-* **Email:** [stenkrama@gmail.com]
-
 ---
