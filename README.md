@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BekaGensss/BekaGensss/main/assets/Chill%20Mario,%20Pixel%20Jeff.gif" width="100" alt="Animated developer"/>
-  <h1>🌟 Halo, Saya BekaGensss!</h1>
+  <img src="https://raw.githubusercontent.com/BekaGensss/BekaGensss/main/assets/Chill%20Mario,%20Pixel%20Jeff.gif" width="100" alt="Animated developer"/>
+  <h1>🌟 Halo, Saya BekaGensss!</h1>
 </div>
 
 Seorang pengembang web yang antusias dan selalu siap menghadapi tantangan baru dalam dunia pemrograman. Saya berfokus pada pembangunan aplikasi web yang efisien, modern, dan mudah digunakan.
@@ -39,5 +39,12 @@ Berikut adalah beberapa teknologi yang sering saya gunakan untuk mewujudkan ide-
 
 Tertarik untuk berkolaborasi atau hanya ingin bertukar pikiran? Jangan ragu untuk menghubungi saya!
 
-* **LinkedIn:** [https://id.linkedin.com/in/bara-kusuma-707067294]
+<a href="https://id.linkedin.com/in/bara-kusuma-707067294" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
 ---
+
+### 👁️‍🗨️ Pengunjung Profil
+
+![Jumlah Pengunjung Profil](https://komarev.com/ghpvc/?username=BekaGensss&color=blue)
