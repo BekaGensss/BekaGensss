@@ -24,8 +24,11 @@ Berikut adalah beberapa teknologi yang sering saya gunakan untuk mewujudkan ide-
 
 ### 📈 Statistik Pengembangan Saya
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BekaGensss&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BekaGensss&layout=compact&theme=gruvbox)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BekaGensss&show_icons=true&theme=vue&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BekaGensss&theme=vue&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BekaGensss&layout=compact&theme=vue&hide_border=true" alt="Top Langs"/>
+</div>
 
 ---
 
