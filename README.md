@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/BekaGensss/BekaGensss/main/assets/Chill%20Mario,%20Pixel%20Jeff.gif" width="100%" style="max-width: 800px; border-radius: 10px;" alt="Animated developer banner"/>
   <br/>
   <br/>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Halo,+Saya+BekaGensss!+%F0%9F%91%8B;Selamat+Datang+di+Profil+Saya!;Let's+Build+Something+Amazing!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Halo,+Saya+BekaGensss!+%F0%9F%91%8B;Selamat+Datang+di+Profil+Saya!;Let's+Build+Something+Amazing!" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
@@ -68,6 +68,15 @@ Tertarik untuk berkolaborasi atau sekadar menyapa? Jangan ragu untuk menghubungi
 <div align="center">
   <a href="https://id.linkedin.com/in/bara-kusuma-707067294" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/Usernamemu" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://facebook.com/Usernamemu" target="_blank">
+     <img src="https://img.shields.io/badge/Facebook-Add-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="mailto:stenkrama@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
 
