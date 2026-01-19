@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/BekaGensss/BekaGensss/main/assets/Chill%20Mario,%20Pixel%20Jeff.gif" width="100%" style="max-width: 800px; border-radius: 10px;" alt="Animated developer banner"/>
   <br/>
   <br/>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Halo,+Saya+BekaGensss!+%F0%9F%91%8B;Selamat+Datang+di+Profil+Saya!;Let's+Build+Something+Amazing!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Halo,+Saya+Bara+Kusuma!+%F0%9F%91%8B;Selamat+Datang+di+Profil+Saya!;Let's+Build+Something+Amazing!" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
