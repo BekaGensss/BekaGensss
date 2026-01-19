@@ -18,9 +18,9 @@ Saya adalah seorang pengembang web yang selalu bersemangat menghadapi tantangan 
 
 ---
 
-### 🛠️ Arsenalku
+### ⚡ Stack Teknologi Utama
 
-Berikut adalah teknologi dan alat yang saya gunakan untuk mengubah ide menjadi kenyataan:
+Kumpulan teknologi dan tools yang saya gunakan untuk membangun aplikasi yang handal dan scalable:
 
 | **Frontend Development** | **Backend Development** |
 |:---:|:---:|
@@ -28,7 +28,15 @@ Berikut adalah teknologi dan alat yang saya gunakan untuk mengubah ide menjadi k
 
 | **Database & Tools** | **Version Control** |
 |:---:|:---:|
-| <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/phpMyAdmin-6C7896?style=for-the-badge&logo=phpmyadmin&logoColor=white" /> | <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/phpMyAdmin-6C7896?style=for-the-badge&logo=phpmyadmin&logoColor=white" /> | <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> |
+
+---
+
+### 🏆 Pencapaian & Trofi
+
+<div align="center">
+  <img src="https://github-profile-trophies.vercel.app/?username=BekaGensss&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+</div>
 
 ---
 
