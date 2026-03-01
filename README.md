@@ -1,23 +1,23 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BekaGensss/BekaGensss/main/assets/Chill%20Mario,%20Pixel%20Jeff.gif" width="100%" style="max-width: 800px; border-radius: 12px; filter: drop-shadow(0 5px 15px rgba(0,0,0,0.4));" alt="Developer banner"/>
+  <img src="https://raw.githubusercontent.com/BekaGensss/BekaGensss/main/assets/Chill%20Mario,%20Pixel%20Jeff.gif" width="100%" style="max-width: 800px; border-radius: 12px;" alt="Developer banner"/>
   <br/>
   <br/>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=35&pause=1000&color=A97CF8&center=true&vCenter=true&width=700&lines=Halo,+Saya+Bara+Kusuma!+👋;Fullstack+&amp;+Logic+Architect;Building+Digital+Simplicity;" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=35&pause=1000&color=A97CF8&center=true&vCenter=true&width=700&lines=Halo,+Saya+Bara+Kusuma!+👋;Multi-Language+Fullstack+Developer;Building+Scalable+Digital+Solutions;" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
-  <p><i>"Koding adalah tentang presisi logika dan efisiensi sistem."</i></p>
+  <p><i>"Teknologi hanyalah alat, logika dan solusi adalah kuncinya."</i></p>
 </div>
 
 ---
 
 ### 💻 Core Philosophy
 
-Sebagai developer, fokus saya bukan cuma bikin aplikasi jalan, tapi gimana cara kerjanya **optimal** di balik layar dan **bersih** dalam struktur. Saya sangat menghargai *standardization* dalam pengembangan software dan selalu memastikan setiap baris kode punya tujuan yang jelas.
+Sebagai developer, saya tidak membatasi diri pada satu stack tertentu. Fokus utama saya adalah membangun aplikasi yang stabil, aman, dan berperforma tinggi dengan memilih alat yang paling tepat untuk setiap masalah. Saya sangat menghargai struktur kode yang bersih serta arsitektur yang mudah dikembangkan di masa depan.
 
-- **Stack Focus:** High-performance Fullstack Development (JS/TS Ecosystem).
-- **Engineering Values:** Clean Code, Reusability, & Scalability.
-- **Design Intent:** Minimalism, Intuitiveness, & User-Centric UI.
+- **Stack Focus:** High-performance Fullstack Development (Web & Mobile).
+- **Engineering Values:** Clean Code, Security, & Scalability.
+- **Design Intent:** Minimalism, Performance-Driven, & User-Centric.
 
 ---
 
@@ -34,9 +34,11 @@ Sebagai developer, fokus saya bukan cuma bikin aplikasi jalan, tapi gimana cara 
     </td>
     <td align="center" width="50%" valign="top">
       <strong>⚙️ Backend & Mobile</strong><br/><br/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
     </td>
   </tr>
@@ -47,7 +49,6 @@ Sebagai developer, fokus saya bukan cuma bikin aplikasi jalan, tapi gimana cara 
 ### 📈 GitHub Contribution Graph
 
 <div align="center">
-  <!-- Grafik aktivitas yang jauh lebih stabil dan modern -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BekaGensss&theme=tokyonight&bg_color=0D1117&color=A97CF8&line=A97CF8&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Aktivitas GitHub Bara" />
 </div>
 
@@ -64,9 +65,6 @@ Sebagai developer, fokus saya bukan cuma bikin aplikasi jalan, tapi gimana cara 
 <div align="center">
   <a href="https://id.linkedin.com/in/bara-kusuma-707067294" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/Usernamemu" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:stenkrama@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
