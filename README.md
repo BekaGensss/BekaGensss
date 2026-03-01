@@ -1,23 +1,23 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BekaGensss/BekaGensss/main/assets/Chill%20Mario,%20Pixel%20Jeff.gif" width="100%" style="max-width: 800px; border-radius: 12px;" alt="Developer banner"/>
+  <img src="https://raw.githubusercontent.com/BekaGensss/BekaGensss/main/assets/Chill%20Mario,%20Pixel%20Jeff.gif" width="100%" style="max-width: 800px; border-radius: 12px; filter: drop-shadow(0 5px 15px rgba(0,0,0,0.4));" alt="Developer banner"/>
   <br/>
   <br/>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=35&pause=1000&color=A97CF8&center=true&vCenter=true&width=700&lines=Halo,+Saya+Bara+Kusuma!+👋;Fullstack+Developer+&amp;+Tech+Enthusiast;Crafting+Modern+Digital+Solutions;" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=35&pause=1000&color=A97CF8&center=true&vCenter=true&width=700&lines=Halo,+Saya+Bara+Kusuma!+👋;Fullstack+&amp;+Logic+Architect;Building+Digital+Simplicity;" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
-  <p><i>"Koding bukan cuma soal sintaks, tapi soal gimana kita merancang solusi yang cerdas dan efisien."</i></p>
+  <p><i>"Koding adalah tentang presisi logika dan efisiensi sistem."</i></p>
 </div>
 
 ---
 
-### 👨‍💻 Mengenal Saya
+### 💻 Core Philosophy
 
-Saya adalah seorang pengembang yang sangat terobsesi dengan detail dan performa dalam membangun produk digital. Fokus utama saya adalah menciptakan sistem yang tidak hanya cepat, tapi juga memiliki struktur kode yang bersih dan mudah dirawat. Saya percaya bahwa teknologi harus selalu berkembang secara dinamis, itulah sebabnya saya selalu antusias mengeksplorasi ekosistem **Fullstack** terbaru untuk menghadirkan pengalaman pengguna yang luar biasa.
+Sebagai developer, fokus saya bukan cuma bikin aplikasi jalan, tapi gimana cara kerjanya **optimal** di balik layar dan **bersih** dalam struktur. Saya sangat menghargai *standardization* dalam pengembangan software dan selalu memastikan setiap baris kode punya tujuan yang jelas.
 
-- 🚀 **Eksplorasi Teknologi:** Selalu haus akan pembaruan framework dan library modern untuk meningkatkan efisiensi pengembangan.
-- ⚡ **Optimasi & Efisiensi:** Berkomitmen pada penulisan kode yang performan, hemat resource, dan memiliki skalabilitas tinggi.
-- 🎨 **Visual & Logika:** Menyeimbangkan estetika antarmuka yang modern dengan logika backend yang solid dan aman.
+- **Stack Focus:** High-performance Fullstack Development (JS/TS Ecosystem).
+- **Engineering Values:** Clean Code, Reusability, & Scalability.
+- **Design Intent:** Minimalism, Intuitiveness, & User-Centric UI.
 
 ---
 
@@ -26,7 +26,7 @@ Saya adalah seorang pengembang yang sangat terobsesi dengan detail dan performa 
 <table align="center" style="border: none; background: none;">
   <tr>
     <td align="center" width="50%" valign="top">
-      <strong>✨ Frontend Development</strong><br/><br/>
+      <strong>✨ Frontend Ecosystem</strong><br/><br/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br/>
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -44,18 +44,16 @@ Saya adalah seorang pengembang yang sangat terobsesi dengan detail dan performa 
 
 ---
 
-### 📊 Statistik GitHub
+### 📈 GitHub Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BekaGensss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=A97CF8&icon_color=A97CF8" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BekaGensss&theme=tokyonight&hide_border=true&background=0D1117&stroke=A97CF8&ring=A97CF8&fire=A97CF8" alt="GitHub Streak" height="180px" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BekaGensss&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=A97CF8" alt="Top Languages" width="400px" />
+  <!-- Grafik aktivitas yang jauh lebih stabil dan modern -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BekaGensss&theme=tokyonight&bg_color=0D1117&color=A97CF8&line=A97CF8&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Aktivitas GitHub Bara" />
 </div>
 
+<br/>
+
 <div align="center">
-  <br/>
   <img src="https://github-profile-trophies.vercel.app/?username=BekaGensss&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
 </div>
 
